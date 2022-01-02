@@ -1,3 +1,3 @@
 # Smeveleens
 
-A joined account by [wesselsmit](https://github.com/wesselsmit) and [devsjors](https://github.com/devsjors)
+A joint account by [wesselsmit](https://github.com/wesselsmit) and [devsjors](https://github.com/devsjors)
